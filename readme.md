@@ -12,10 +12,10 @@ The repository follows a simple folder structure where each topic (e.g., **Array
 
 ```
 - array
-    - sum-of-two
+    - example-1
     - example-2
 - linked-list
-    - example-3
+    - example-1
 - template
     - index.html
     - script.js
