@@ -16,6 +16,7 @@ The repository follows a simple folder structure where each topic (e.g., **Array
     - example-2
 - linked-list
     - example-1
+    - example-2
 - template
     - index.html
     - script.js
